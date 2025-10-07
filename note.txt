@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản dễ dàng
 - Có thể theo dõi lịch sử thay đổi
 - Giúp làm việc nhóm hiệu quả hơn
+- Học Git giúp hiểu cách hoạt động của dự án lớn
+- GitHub là công cụ hữu ích để chia sẻ code

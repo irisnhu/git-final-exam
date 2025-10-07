@@ -6,3 +6,11 @@
 
 - Sở thích: trồng cây, nghe nhạc, công nghệ trong nông nghiệp
 - Kỹ năng: tự học, làm việc nhóm, lập trình cơ bản
+
+- Kế hoạch học tập:
+  + Học vững Git và GitHub
+  + Ôn lại kiến thức C#, SQL
+  + Thực hành WPF để làm đồ án
+  + Nghiên cứu thêm Python và AI cơ bản
+  + Hoàn thành tốt các môn học trong kỳ này
+

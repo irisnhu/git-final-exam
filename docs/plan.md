@@ -1,0 +1,10 @@
+- Kế hoạch học tập tuần này:
+- Ngày bắt đầu: 07/10/2025
+- Ngày kết thúc: 13/10/2025
+- Thứ 2: Ôn lại Git và làm bài tập trên repo
+- Thứ 3: Học Python cơ bản, làm mini project nhỏ
+- Thứ 4: Luyện kỹ năng SQL và truy vấn phức tạp
+- Thứ 5: Học HTML, CSS cơ bản để chuẩn bị web mini
+- Thứ 6: Làm lại bài thực hành Git nâng cao
+- Thứ 7: Xem lại kiến thức đã học, ghi chú và tổng hợp
+- Chủ nhật: Nghỉ ngơi, xem video kỹ năng mềm

@@ -1,0 +1,5 @@
+- Tính năng: Thêm chức năng đăng nhập bằng email
+- Mô tả: Người dùng có thể đăng nhập bằng email thay vì username
+- Lợi ích: Dễ nhớ và thân thiện hơn với người dùng
+- Công nghệ dự kiến: C# + SQL Server
+- Ghi chú: Kiểm thử trước khi merge vào develop

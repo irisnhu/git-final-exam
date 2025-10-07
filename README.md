@@ -1,0 +1,3 @@
+- Tên đề thi: Git Final Exam.
+- Họ tên: Huỳnh Đặng Nhu Cương, MSSV: 220851 , ngày làm bài: 07/10/2025
+- Mục Mục tiêu: là để giúp bản thân làm việc hiệu quả hơn trong môi trường phát triển phần mềm thực tế, đặc biệt là khi làm việc nhóm
